@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MonishM2005 
 - 👀 I’m interested in ...how the Technology works
-- 🌱 I’m currently learning ...FrontEnd
+- 🌱 I’m currently Exploring ... all fields
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
